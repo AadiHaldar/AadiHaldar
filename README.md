@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding-banner">
 </p>
 
-<h1 align="center">Hey, I'm Aadi 👋</h1>
+<h1 align="center">Hey, I'm Aadi </h1>
 <p align="center">
   <b>AI × Hardware × Full-Stack</b> • BTech CSE (AI) @ Amrita • BS Data Science @ IIT Madras
   <br/>
@@ -13,7 +13,7 @@
 <hr/>
 
 <!-- ========= TECH STACK ========= -->
-<h2>💻 Tech Stack:</h2>
+<h2> Tech Stack:</h2>
 
 <!-- Languages -->
 <p>
@@ -47,10 +47,10 @@
 <hr/>
 
 <!-- ========= FEATURED / PROJECTS ========= -->
-<h2>🚀 Featured:</h2>
+<h2> Featured:</h2>
 
 <details open>
-  <summary><b>🩺 Symbolic-Neural AI for HCM Diagnosis & Interpretation (Jan–Apr 2025)</b></summary>
+  <summary><b> Symbolic-Neural AI for HCM Diagnosis & Interpretation (Jan–Apr 2025)</b></summary>
   <br/>
   Hybrid <b>symbolic reasoning</b> + <b>deep learning</b> for early-stage HCM detection from clinical records.<br/>
   • Explainable predictions for doctor-assistive workflows<br/>
@@ -60,34 +60,34 @@
 </details>
 
 <details>
-  <summary><b>🚁 Disaster Management Drone — YOLOv8 + 5G RF + QNN</b></summary>
+  <summary><b> Disaster Management Drone — YOLOv8 + 5G RF + QNN</b></summary>
   Real-time survivor detection, A* pathfinding, thermal vision, FPGA edge compute. 
 </details>
 
 <details>
-  <summary><b>👁️ Cataract Detection (CNN)</b></summary>
+  <summary><b> Cataract Detection (CNN)</b></summary>
   Retina image screening model aimed at low-cost early diagnosis.
 </details>
 
 <details>
-  <summary><b>⚡ Power System Fault Analysis (MVMD)</b></summary>
+  <summary><b>  Power System Fault Analysis (MVMD)</b></summary>
   Oscillation detection & blackout-prevention analytics.
 </details>
 
 <details>
-  <summary><b>🍴 Smart Canteen AI</b></summary>
+  <summary><b> Smart Canteen AI</b></summary>
   Dietary + budget-aware recommendations, QR payment flow, calorie tracking.
 </details>
 
 <details>
-  <summary><b>🌱 Soil & Crop Recommendation (ML)</b></summary>
+  <summary><b> Soil & Crop Recommendation (ML)</b></summary>
   Precision agriculture recommendations from soil features.
 </details>
 
 <hr/>
 
 <!-- ========= GITHUB STATS ========= -->
-<h2>📊 GitHub Stats:</h2>
+<h2> GitHub Stats:</h2>
 
 <div align="center">
 
@@ -105,7 +105,7 @@
 <hr/>
 
 <!-- ========= KAGGLE STATS ========= -->
-<h2>🏆 Kaggle Stats:</h2>
+<h2> Kaggle Stats:</h2>
 
 <div align="center">
   <!-- Replace with your Kaggle username -->
@@ -117,7 +117,7 @@
 <hr/>
 
 <!-- ========= SOCIALS ========= -->
-<h2>🌐 Socials:</h2>
+<h2> Socials:</h2>
 <p>
   <a href="mailto:aadi.haldar2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-aadi.haldar2006@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
@@ -136,7 +136,7 @@
 <hr/>
 
 <!-- ========= PINNED REPOS (cards) ========= -->
-<h2>📌 Pinned:</h2>
+<h2> Pinned:</h2>
 
 <p align="center">
   <a href="https://github.com/AadiHaldar/HCM">
