@@ -1,21 +1,22 @@
-# Hey, I'm Aadi 
+# Hey, I'm Aadi 👋
 
 **AI × Agents × Full-Stack** · B.Tech CSE (AI) @ Amrita Vishwa Vidyapeetham · BS Data Science @ IIT Madras
 
 I build AI systems end to end: multi-agent platforms, fine-tuned finance models, voice agents and edge/FPGA prototypes.
 
-##  Featured projects
+## 🚀 Featured projects
 
 | Project | What it does | Stack |
 |---|---|---|
 | [**SustainTwin AI**](https://github.com/AadiHaldar/SustainTwin_AI-fleet-Command) | Agentic edge intelligence for heavy-machinery fleets: on-device IsolationForest, LangGraph multi-agent reasoning, SHAP-guided Gemini explanations, live WebSocket telemetry | FastAPI · LangGraph · React/TS · Redis |
 | [**Stock Analysis Fine-Tuning**](https://github.com/AadiHaldar/stock-analysis-fine-tuning) | FinBERT sentiment + QLoRA-tuned Llama 3.2 3B for Buy/Hold/Sell signals + RAG over SEC filings, all on an 8 GB GPU | PyTorch · PEFT · FAISS |
 | [**Quant Finance Suite**](https://github.com/AadiHaldar/quant-finance-suite) | Markowitz optimizer with a risk engine (Sharpe, VaR/CVaR, CAPM) and a sentiment-adjusted DCF equity-research pipeline | Python · SciPy · Streamlit |
+| [**CricPred**](https://github.com/AadiHaldar/CricPred) | Cricket match winner/toss prediction: XGBoost + SHAP explanations, FastAPI, vector-DB context and LLM-generated reasoning | FastAPI · XGBoost · LangChain |
 | [**Agentic AI Self-Healing Cloud**](https://github.com/AadiHaldar/Agentic-AI-Self-Healing-Cloud-Infrastructure) | Federated resource estimation + fault-tolerant allocation with an agentic / digital-twin / XAI architecture | Python · Jupyter |
 | [**AI Safe Path**](https://github.com/AadiHaldar/AI-Safe-Path) | Safe path planning with a detailed report | TypeScript |
 | [**Disaster Management with UAVs**](https://github.com/AadiHaldar/Disaster-Managment-with-UAVs-and-Real-Time-Pathfinding) | YOLOv8 road segmentation + A* pathfinding for drone rescue routing | YOLOv8 · Jupyter |
 
-##  Tech stack
+## 🛠 Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
@@ -31,7 +32,7 @@ I build AI systems end to end: multi-agent platforms, fine-tuned finance models,
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?logo=mathworks&logoColor=white&style=flat-square)
 ![FPGA](https://img.shields.io/badge/FPGA%20·%20PYNQ-00979D?logo=xilinx&logoColor=white&style=flat-square)
 
-##  Reach me
+## 📫 Reach me
 
 [Email](mailto:aadi.haldar2006@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aadi-haldar-9a140a213)
 
