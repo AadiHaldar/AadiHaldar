@@ -16,6 +16,19 @@ I build AI systems end to end: multi-agent platforms, fine-tuned finance models,
 | [**AI Safe Path**](https://github.com/AadiHaldar/AI-Safe-Path) | Safe path planning with a detailed report | TypeScript |
 | [**Disaster Management with UAVs**](https://github.com/AadiHaldar/Disaster-Managment-with-UAVs-and-Real-Time-Pathfinding) | YOLOv8 road segmentation + A* pathfinding for drone rescue routing | YOLOv8 · Jupyter |
 
+## 🔒 Internship work (private repositories)
+
+Production-style systems built during my industry internship. The code is private, so I'm happy to walk through any of it on request.
+
+| Project | What it does | Stack |
+|---|---|---|
+| **HR Interview Platform** | AI screening and interview platform: CV-to-criteria matching, auto-shortlisting, interview analysis, multilingual PDF reports | FastAPI · React · Firebase · GCP |
+| **Voice Agents** (3 repos) | Real-time, multi-agent streaming voice bots for candidate screening and patient support, with admin dashboards and visual workflow builders | Pipecat · STT/TTS · Twilio · Docker |
+| **Virtual Health Platform** | AI journey and engagement orchestration layer for a healthcare platform | Python · LLM agents |
+| **Market Intelligence** | Import-parity analytics system with ML models and a live dashboard for commodity markets | Python · Firebase · React |
+| **PO Approval Automation** | End-to-end purchase-order ingestion and approval flow | n8n · React · Supabase · Salesforce MCP |
+| **RFQ Automation** | Workflow automation that ingests RFQs and drafts responses | n8n · REST APIs |
+
 ## 🛠 Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
