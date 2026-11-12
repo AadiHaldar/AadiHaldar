@@ -36,5 +36,3 @@ I build AI systems end to end: multi-agent platforms, fine-tuned finance models,
 
 [Email](mailto:aadi.haldar2006@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aadi-haldar-9a140a213)
 
-<img src="https://github-readme-stats.vercel.app/api?username=AadiHaldar&show_icons=true&theme=github_dark&hide_border=true" height="150" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadiHaldar&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Top languages"/>
